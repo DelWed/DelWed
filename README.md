@@ -3,10 +3,10 @@
 # Ingeniería en sistemas de información 
 un viaje por el universo comienza con un simple paso!
 ##lenguajes de programación!
--C#
--C++
--Python
--😎
+-C#...
+-C++...
+-Python...
+-😎...
 
 #Mi facebook es ==https://www.facebook.com/german.jmdeveret?mibextid=ZbWKwL 
 
