@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### Ingeniería en sistemas de información 
-
+# Ingeniería en sistemas de información 
+un viaje por el universo comienza con un simple paso!
 
 <!--
 **DelWed/DelWed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
