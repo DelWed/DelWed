@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-# Estudios 
-ingeniería en sistema de informacion 
+### Ingeniería en sistemas de información 
+
 
 <!--
 **DelWed/DelWed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
