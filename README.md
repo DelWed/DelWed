@@ -10,7 +10,7 @@ un viaje por el universo comienza con un simple paso!
 - Python ...
 - 😎 ...
 
-# Mi facebook es ==https://www.facebook.com/german.jmdeveret?mibextid=ZbWKwL 
+# Mi facebook es == https://www.facebook.com/german.jmdeveret?mibextid=ZbWKwL
 
 # Ing.German Everet 
 
